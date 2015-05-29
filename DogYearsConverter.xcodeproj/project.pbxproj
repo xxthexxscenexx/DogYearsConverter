@@ -13,6 +13,7 @@
 		5AC81C031B18CDF700127B21 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AC81C021B18CDF700127B21 /* Images.xcassets */; };
 		5AC81C061B18CDF700127B21 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5AC81C041B18CDF700127B21 /* LaunchScreen.xib */; };
 		5AC81C121B18CDF800127B21 /* DogYearsConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AC81C111B18CDF800127B21 /* DogYearsConverterTests.swift */; };
+		5AC81C1C1B18CEC700127B21 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AC81C1B1B18CEC700127B21 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		5AC81C0B1B18CDF800127B21 /* DogYearsConverterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DogYearsConverterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AC81C101B18CDF800127B21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AC81C111B18CDF800127B21 /* DogYearsConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogYearsConverterTests.swift; sourceTree = "<group>"; };
+		5AC81C1B1B18CEC700127B21 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		5AC81BF91B18CDF700127B21 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5AC81C1B1B18CEC700127B21 /* AgeOfLaika.jpg */,
 				5AC81BFA1B18CDF700127B21 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AC81C011B18CDF700127B21 /* Main.storyboard in Resources */,
+				5AC81C1C1B18CEC700127B21 /* AgeOfLaika.jpg in Resources */,
 				5AC81C061B18CDF700127B21 /* LaunchScreen.xib in Resources */,
 				5AC81C031B18CDF700127B21 /* Images.xcassets in Resources */,
 			);
